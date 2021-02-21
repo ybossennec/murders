@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1613910612028.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "31B6E241",
+    "lastKnownWriteTime" : 1613910790,
+    "last_content_update" : 1613910790967,
+    "path" : "C:/Users/Yann/projects/murders/report.Rmd",
+    "project_path" : "report.Rmd",
+    "properties" : {
+        "cursorPosition" : "3,30",
+        "last_setup_crc32" : "DCC4207Dbb338d19",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
